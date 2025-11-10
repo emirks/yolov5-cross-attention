@@ -43,6 +43,7 @@ python train.py --img 640 --batch 16 --epochs 300 --data coco.yaml --cfg models/
 Training results demonstrate significant improvements with cross-attention and P2 layer optimizations:
 
 ![image](results/training_chart_1.png)
+![image](results/training_chart_2.png)
 
 ### Performance Metrics
 

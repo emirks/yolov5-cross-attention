@@ -1,4 +1,4 @@
-# YOLOv5 with Cross-Attention and P2 Layer Optimizations
+# YOLOv5 with Cross-Attention and P2 Layer Optimizations for Small Object Detection
 
 This repository contains a modified YOLOv5 model with cross-attention modules and P2 layer optimizations, designed for improved **small object detection** performance through transfer learning techniques.
 
@@ -60,3 +60,4 @@ Training results demonstrate significant improvements with cross-attention and P
 - **mAP@0.5:0.95 improvement**: From 0.33 to **0.375** (+13.6% relative improvement)
 - **Faster convergence**: Best model achieves higher performance in 87 steps (5.66 hours) vs 199 steps (14.48 hours) for baseline
 - The cross-attention with P2 layer and transfer learning (freeze10) configuration shows the best performance with faster training convergence
+
